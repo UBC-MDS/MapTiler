@@ -58,8 +58,10 @@ Because this repo structures the application around a primary `shiny_app` object
 
 1. Push this directory to a repository on **GitHub**.
 2. Log into your **Posit Connect Cloud** account dashboard.
-3. Click **New Content** -> **GitHub** and select your repository.
-4. Choose **Shiny** as your deployment framework. The platform will automatically provision the environment, download your dependencies, and expose a live, permanent public URL.
+3. Click **Publish** -> **From GitHub**
+4. Choose **Shiny** as your deployment framework and select your repository. 
+
+The platform will automatically provision the environment, download your dependencies, and expose a live, permanent public URL.
 
 ## 🔌 Frontend App Consumption Example
 

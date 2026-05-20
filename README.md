@@ -15,6 +15,7 @@ It is specifically engineered to bypass platform constraints on environments lik
 ```text
 .
 ├── app.py              # Custom ASGI interceptor routing traffic to TiTiler or Shiny
+├── test.py             # Sample map widget using the API (Local)
 └── requirements.txt    # Frozen production dependencies for environment builds
 ```
 
